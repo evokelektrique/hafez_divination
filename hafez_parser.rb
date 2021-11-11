@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
-
-# Hafez divination parser class
+# Hafez divination parser class (DEPRECATED)
 class HafezParser
     attr_accessor :path, :lines
 
